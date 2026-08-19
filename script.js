@@ -1,10 +1,10 @@
 // ========== VIDEO ARRAYS ==========
 const desktopVideos = [
-  'video1.mp4', 'video2.mp4', 'video3.mp4', 'video4.mp4', 'video5.mp4',
+  'video1.jpg', 'video2.mp4', 'video3.mp4', 'video4.mp4', 'video5.mp4',
   'video6.mp4', 'video7.mp4', 'video8.mp4', 'video9.mp4', 'video10.mp4'
 ];
 const mobileVideos = [
-  'mobile1.mp4', 'mobile2.mp4', 'mobile3.mp4', 'mobile4.mp4', 'mobile5.mp4',
+  'video1.jpg', 'mobile2.mp4', 'mobile3.mp4', 'mobile4.mp4', 'mobile5.mp4',
   'mobile6.mp4', 'mobile7.mp4', 'mobile8.mp4', 'mobile9.mp4', 'mobile10.mp4'
 ];
 
